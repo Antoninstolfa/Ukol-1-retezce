@@ -1,0 +1,10 @@
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\bin\Debug\Úkol 1 řetězce.exe.config
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\bin\Debug\Úkol 1 řetězce.exe
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\bin\Debug\Úkol 1 řetězce.pdb
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol 1 řetězce.csproj.AssemblyReference.cache
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol_1_řetězce.Form1.resources
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol_1_řetězce.Properties.Resources.resources
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol 1 řetězce.csproj.GenerateResource.cache
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol 1 řetězce.csproj.CoreCompileInputs.cache
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol 1 řetězce.exe
+D:\Antonín Štolfa\Programování\C#\Úkol 1 řetězce\Úkol 1 řetězce\obj\Debug\Úkol 1 řetězce.pdb
